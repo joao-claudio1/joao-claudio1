@@ -56,16 +56,17 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
+    <code> <img height="50" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"> </code>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-claudio1&layout=compact&langs_count=10&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joao-claudio1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joao-claudio1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410"  /></p>
 <br><br><br><br><br>
 
 <hr>
-
+<p></p>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=joao-claudio1&theme=juicyfresh&no-bg=true" />
