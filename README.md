@@ -4,9 +4,7 @@
 </p>
 
 <p>
-	 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
-	
-I studied Computer Science and engineering at Jean Piaget University in Cape Verde so I am learning to use some frameworks and libraries to practice and gain knowledge and I also like to share knowledge with others and look for solutions to problems.
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I studied Computer Science and engineering at Jean Piaget University in Cape Verde so I am learning to use some frameworks and libraries to practice and gain knowledge and I also like to share knowledge with others and look for solutions to problems.
 
 </p>
 
