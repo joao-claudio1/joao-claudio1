@@ -12,13 +12,13 @@
   <a  href="https://kulido.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>
-  <a href="https:/facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/joaoclaudio.soares.1/" target="_blank">
       <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
   </a>	
   <a href="mailto:jcvsoares1@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="https://cv.linkedin.com/in/jo%C3%A3o-cl%C3%A1udio-soares1/" target="_blank">
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-cl%C3%A1udio-soares1/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
  
