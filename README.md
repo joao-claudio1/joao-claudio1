@@ -1,24 +1,24 @@
-## Hi, I’m Ifeanyi Nneji <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+## Hi, I’m João Cláudio Soares <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+also+programmer+Computer+Engineering" /></a>
 </p>
 
 <p align ="center">
-  <a  href="https://ifeanyi-nneji.netlify.app" target="_blank">
+  <a  href="https://kulido.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>
-  <a href="https://ifeanyinneji.hashnode.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
+  <a href="https:/facebook.com/" target="_blank">
+      <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
   </a>	
-  <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:jcvsoares1@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
+   <a href="https://cv.linkedin.com/in/jo%C3%A3o-cl%C3%A1udio-soares1/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
  
   </a>  
-  <a href="https://twitter.com/Neji_14" target="_blank">
+  <a href="https://twitter.com/kulido1" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
   </p>
@@ -95,19 +95,19 @@
 
 ## Projects
 
-<a href="https://github.com/Nneji123/Website-Blocker">
+<a href="https://github.com/joao-claudio1/Website-Blocker">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=joao-claudio1&repo=Website-Blocker&theme=tokyonight" />
 
 </a>  
 
-<a href="https://github.com/Nneji123/Alien-Shooter">
+<a href="https://github.com/joao-claudio1/Alien-Shooter">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=joao-claudio1&repo=Alien-Shooter&theme=tokyonight" />
 
 </a> 
 
@@ -119,10 +119,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joao-claudio1&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-claudio1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joao-claudio1" height="192px"/>
   <br/>
   </p>
 </details>
@@ -131,7 +131,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/joao-claudio1"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joao-claudio1&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -139,7 +139,7 @@
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=joao-claudio1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 
@@ -149,8 +149,3 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
------
-Credits: [Nneji123](https://github.com/Nneji123)
-
-Last Edited on: 4/30/2022
