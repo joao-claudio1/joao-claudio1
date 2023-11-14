@@ -1,6 +1,6 @@
 ## Hi, I’m João Cláudio Soares <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-  <a href="https://nhaportfolio.azurewebsites.net/"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+also+programmer+Computer+Engineering" /></a>
+  <a href="https://https://nhaportfolio.vercel.app/"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+also+programmer+Computer+Engineering" /></a>
 </p>
 
 <p>
@@ -9,7 +9,7 @@
 </p>
 
 <p align ="center">
-   <a href="https://nhaportfolio.azurewebsites.net/" target="_blank"> 
+   <a href="https://https://nhaportfolio.vercel.app/" target="_blank"> 
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>
   <a href="https://www.facebook.com/joaoclaudio.soares.1/" target="_blank">
