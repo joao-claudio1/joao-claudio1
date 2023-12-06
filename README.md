@@ -9,7 +9,7 @@
 </p>
 
 <p align ="center">
-   <a href="https://https://nhaportfolio.vercel.app/" target="_blank"> 
+   <a href="https://nhaportfolio.vercel.app/" target="_blank"> 
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>
   <a href="https://www.facebook.com/joaoclaudio.soares.1/" target="_blank">
